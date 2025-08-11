@@ -1,8 +1,8 @@
 # Gitlab
 # 1️⃣ Install Git
 
-sudo apt update
-sudo apt install git -y
+- sudo apt update
+- sudo apt install git -y
 
 # 2️⃣ Configure Git
 
