@@ -6,13 +6,13 @@
 
 # 2️⃣ Configure Git
 
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+- git config --global user.name "Your Name"
+- git config --global user.email "your.email@example.com"
 
 # 3️⃣ Initialize the repository (replace with your desired path)
 
-mkdir -p /home/intern1/test-pipeline
-cd /home/intern1/test-pipeline
-git init
+- mkdir -p /home/intern1/test-pipeline
+- cd /home/intern1/test-pipeline
+- git init
 
 
